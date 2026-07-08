@@ -4,8 +4,9 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8%2B-blue)](https://matplotlib.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![CI](https://github.com/username/matplotlib-training/actions/workflows/ci.yml/badge.svg)](https://github.com/username/matplotlib-training/actions/workflows/ci.yml)
-[![Docs](https://github.com/username/matplotlib-training/actions/workflows/docs.yml/badge.svg)](https://username.github.io/matplotlib-training)
+[![CI](https://github.com/birhekobo/matplotlib-training/actions/workflows/ci.yml/badge.svg)](https://github.com/birhekobo/matplotlib-training/actions/workflows/ci.yml)
+[![Docs](https://github.com/birhekobo/matplotlib-training/actions/workflows/docs.yml/badge.svg)](https://birhekobo.github.io/matplotlib-training)
+[![Deployed](https://img.shields.io/badge/deployed-GitHub%20Pages-blue?logo=githubpages)](https://birhekobo.github.io/matplotlib-training)
 
 A comprehensive **40-day Matplotlib bootcamp** taking learners from beginner to advanced level through hands-on projects using real-world climate and environmental datasets.
 
@@ -30,7 +31,7 @@ A comprehensive **40-day Matplotlib bootcamp** taking learners from beginner to 
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/matplotlib-training.git
+git clone https://github.com/birhekobo/matplotlib-training.git
 cd matplotlib-training
 
 # Create a virtual environment
