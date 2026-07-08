@@ -35,6 +35,10 @@ docs = [
     "sphinx-rtd-theme>=1.3",
 ]
 
+[tool.setuptools.packages.find]
+include = ["scripts", "tests*"]
+namespaces = false
+
 [tool.black]
 line-length = 88
 target-version = ["py310"]
